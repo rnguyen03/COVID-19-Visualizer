@@ -1,4 +1,4 @@
-# Object Oriented Assignment
+# Software Design Assignment
 
 Software that parses and visualizes data to address inquiries.
 
