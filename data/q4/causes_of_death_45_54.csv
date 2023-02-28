@@ -1,0 +1,152 @@
+﻿"Leading causes of death, total population, by age group 1 2 3 4 5 6 7 8 9",,
+Frequency: Annual,,
+Table: 13-10-0394-01 (formerly CANSIM 102-0561),,
+Release date: 2022-01-24,,
+Geography: Canada,,
+,,
+,,
+,,
+,Age at time of death 10,"Age at time of death, 45 to 54 years"
+,Sex 11,Both sexes
+,"Geography, place of residence 12 13","Canada, place of residence"
+Leading causes of death (ICD-10) 14 15 16,Characteristics,2020
+"Total, all causes of death  [A00-Y89]",,Number
+,Rank of leading causes of death 17,..
+,Number of deaths,"12,397"
+Salmonella infections  [A01-A02],Rank of leading causes of death 17,39
+,Number of deaths,0
+"Shigellosis and amoebiasis  [A03, A06]",Rank of leading causes of death 17,39
+,Number of deaths,0
+Tuberculosis  [A16-A19],Rank of leading causes of death 17,25
+,Number of deaths,8
+Whooping cough  [A37],Rank of leading causes of death 17,39
+,Number of deaths,0
+"Scarlet fever and erysipelas  [A38, A46]",Rank of leading causes of death 17,39
+,Number of deaths,0
+Meningococcal infection  [A39],Rank of leading causes of death 17,39
+,Number of deaths,0
+Sepsis  [A40-A41],Rank of leading causes of death 17,14
+,Number of deaths,54
+Syphilis  [A50-A53],Rank of leading causes of death 17,39
+,Number of deaths,0
+Acute poliomyelitis  [A80],Rank of leading causes of death 17,39
+,Number of deaths,0
+"Arthropod-borne viral encephalitis  [A83-A84, A85.2]",Rank of leading causes of death 17,39
+,Number of deaths,0
+Measles  [B05],Rank of leading causes of death 17,39
+,Number of deaths,0
+Viral hepatitis  [B15-B19],Rank of leading causes of death 17,17
+,Number of deaths,36
+Human immunodeficiency virus [HIV] disease  [B20-B24],Rank of leading causes of death 17,18
+,Number of deaths,34
+Malaria  [B50-B54],Rank of leading causes of death 17,39
+,Number of deaths,0
+Malignant neoplasms  [C00-C97],Rank of leading causes of death 17,1
+,Number of deaths,"3,458"
+"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behaviour  [D00-D48]",Rank of leading causes of death 17,15
+,Number of deaths,41
+Anaemias  [D50-D64],Rank of leading causes of death 17,29
+,Number of deaths,6
+Diabetes mellitus  [E10-E14],Rank of leading causes of death 17,6
+,Number of deaths,311
+Nutritional deficiencies  [E40-E64],Rank of leading causes of death 17,24
+,Number of deaths,11
+"Meningitis  [G00, G03]",Rank of leading causes of death 17,26
+,Number of deaths,7
+Parkinson's disease  [G20-G21],Rank of leading causes of death 17,32
+,Number of deaths,4
+Alzheimer's disease  [G30],Rank of leading causes of death 17,26
+,Number of deaths,7
+"Diseases of heart  [I00-I09, I11, I13, I20-I51]",Rank of leading causes of death 17,2
+,Number of deaths,"1,654"
+"Essential hypertension and hypertensive renal disease  [I10, I12, I15]",Rank of leading causes of death 17,21
+,Number of deaths,21
+Cerebrovascular diseases  [I60-I69],Rank of leading causes of death 17,7
+,Number of deaths,308
+Atherosclerosis  [I70],Rank of leading causes of death 17,26
+,Number of deaths,7
+Aortic aneurysm and dissection  [I71],Rank of leading causes of death 17,13
+,Number of deaths,64
+Influenza and pneumonia  [J09-J18],Rank of leading causes of death 17,9
+,Number of deaths,143
+Acute bronchitis and bronchiolitis  [J20-J21],Rank of leading causes of death 17,39
+,Number of deaths,0
+Chronic lower respiratory diseases  [J40-J47],Rank of leading causes of death 17,10
+,Number of deaths,139
+"Pneumoconioses and chemical effects  [J60-J66, J68]",Rank of leading causes of death 17,34
+,Number of deaths,2
+Pneumonitis due to solids and liquids  [J69],Rank of leading causes of death 17,20
+,Number of deaths,22
+Peptic ulcer  [K25-K28],Rank of leading causes of death 17,19
+,Number of deaths,26
+Diseases of appendix  [K35-K38],Rank of leading causes of death 17,36
+,Number of deaths,1
+Hernia  [K40-K46],Rank of leading causes of death 17,30
+,Number of deaths,5
+"Chronic liver disease and cirrhosis  [K70, K73-K74]",Rank of leading causes of death 17,4
+,Number of deaths,623
+Cholelithiasis and other disorders of gallbladder  [K80-K82],Rank of leading causes of death 17,23
+,Number of deaths,12
+"Nephritis, nephrotic syndrome and nephrosis  [N00-N07, N17-N19, N25-N27]",Rank of leading causes of death 17,12
+,Number of deaths,76
+"Infections of kidney  [N10-N12, N13.6, N15.1]",Rank of leading causes of death 17,22
+,Number of deaths,13
+Hyperplasia of prostate  [N40],Rank of leading causes of death 17,36
+,Number of deaths,1
+Inflammatory diseases of female pelvic organs  [N70-N76],Rank of leading causes of death 17,34
+,Number of deaths,2
+"Pregnancy, childbirth and the puerperium  [O00-O99]",Rank of leading causes of death 17,39
+,Number of deaths,0
+Certain conditions originating in the perinatal period  [P00-P96],Rank of leading causes of death 17,36
+,Number of deaths,1
+"Congenital malformations, deformations and chromosomal abnormalities  [Q00-Q99]",Rank of leading causes of death 17,11
+,Number of deaths,103
+"COVID-19  [U07.1, U07.2]",Rank of leading causes of death 17,8
+,Number of deaths,189
+"Accidents (unintentional injuries)  [V01-X59, Y85-Y86]",Rank of leading causes of death 17,3
+,Number of deaths,"1,430"
+"Intentional self-harm (suicide)  [X60-X84, Y87.0]",Rank of leading causes of death 17,4
+,Number of deaths,623
+"Assault (homicide)  [X85-Y09, Y87.1]",Rank of leading causes of death 17,15
+,Number of deaths,41
+"Legal intervention  [Y35, Y89.0]",Rank of leading causes of death 17,33
+,Number of deaths,3
+"Operations of war and their sequelae  [Y36, Y89.1]",Rank of leading causes of death 17,39
+,Number of deaths,0
+"Complications of medical and surgical care  [Y40-Y84, Y88]",Rank of leading causes of death 17,30
+,Number of deaths,5
+Other causes of death 18,Rank of leading causes of death 17,..
+,Number of deaths,"2,906"
+,,
+Symbol legend:,,
+.., not available for a specific reference period,
+,,
+,,
+,,
+,,
+,,
+,,
+Footnotes:,,
+1,"Sources: Statistics Canada, Canadian Vital Statistics - Death database (CVSD) and population estimates",
+2,Death refers to the permanent disappearance of all evidence of life at any time after a live birth has taken place. Stillbirths are excluded.,
+3,"The following standard symbols are used in this Statistics Canada table: (..) for figures not available for a specific reference period, (...) for figures not applicable and (x) for figures suppressed to meet the confidentiality requirements of the Statistics Act.",
+4,"The totals (all causes of death) by age group and/ or sex presented in this table may not reflect those given in tables 13-10-0707-01 to 13-10-0716-01, 13-10-0368-01 due to the correction of age or sex information that was inconsistent with the underlying cause of death.",
+5,"During the production of each year's birth/death/stillbirth statistics, data from previous years may be revised to reflect any updates or changes that have been received from the provincial and territorial vital statistics registrars.",
+6,"Starting with the 2013 reference year, information regarding new and terminated cause of death codes, as well as any changes to the cause of death descriptions, are available upon request; please contact Statistics Canada's Statistical Information Service (toll-free 1-800-263-1136; 514-283-8300; STATCAN.infostats-infostats.STATCAN@Canada.ca).",
+7,"Starting with the 2013 reference year, a new automated coding system was used to select the underlying cause of death. In 2017, an updated version of this coding system was implemented. For more information or to obtain documentation regarding the impact of these changes, please contact Statistics Canada's Statistical Information Service (toll-free 1-800-263-1136; 514-283-8300; STATCAN.infostats-infostats.STATCAN@Canada.ca).",
+8,"Due to improvements in methodology and timeliness, the duration of data collection has been shortened compared to previous years. As a result, there may have been fewer deaths captured by the time of the release. The 2017, 2018, 2019 and 2020 data are considered preliminary.",
+9,"2017, 2018, 2019 and 2020 data for Yukon are not available.",
+10,Age attained at the last birthday preceding death.,
+11,"For data year 2000 to 2009, missing data on sex of the deceased were imputed based on death registration number. Starting with 2010 data year, missing data on sex of the deceased were imputed based on the cause of death information and a logistic regression.",
+12,The geographic distribution of deaths in this table is based on the deceased's usual place of residence.,
+13,Counts in this table exclude deaths of non-residents of Canada.,
+14,"The cause of death tabulated is the underlying cause of death. This is defined as (a) the disease or injury which initiated the train of events leading directly to death, or (b) the circumstances of the accident or violence which produced the fatal injury. The underlying cause is selected from the conditions listed on the medical certificate of cause of death.",
+15,"World Health Organization (WHO), International Statistical Classification of Diseases and Related Health Problems, 10th Revision (ICD-10).",
+16,The list for ranking leading causes of death that is used in this table is based on the list that was developed and that is been used by the National Center for Health Statistics of the United States in their annual report on leading causes of death.,
+18,"Other causes of death"" is a residual category"," which includes all causes of death that are not part of the 50 leading causes of death list."""
+17,The ranking of the leading causes of death is based on the number of deaths.,
+,,
+,,
+,,
+"How to cite: Statistics Canada. Table 13-10-0394-01  Leading causes of death, total population, by age group",,
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310039401,,

@@ -1,0 +1,53 @@
+ID,CAUSE,RANK,NUMBER_OF_DEATHS
+0,Salmonella infections,38,6
+1,Shigellosis and amoebiasis,41,0
+2,Tuberculosis,31,516
+3,Whooping cough,41,0
+4,Scarlet fever and erysipelas,41,0
+5,Meningococcal infection,38,148
+6,Sepsis,14,3238
+7,Syphilis,41,0
+8,Acute poliomyelitis,41,0
+9,Arthropod,41,0
+10,Measles,41,0
+11,Viral hepatitis,17,1526
+12,Human immunodeficiency virus,23,1642
+13,Malaria,41,0
+14,Malignant neoplasms,1,184672
+15,In situ neoplasms,15,3020
+16,Anaemias,28,948
+17,Diabetes mellitus,6,17498
+18,Nutritional deficiencies,26,464
+19,Meningitis,30,598
+20,Parkinson,19,448
+21,Alzheimer,21,518
+22,Diseases of heart,2,78628
+23,Essential hypertension and hypertensive renal disease,16,1182
+24,Cerebrovascular diseases,7,15292
+25,Atherosclerosis,23,382
+26,Aortic aneurysm and dissection,13,2888
+27,Influenza and pneumonia,10,8778
+28,Acute bronchitis and bronchiolitis,37,12
+29,Chronic lower respiratory diseases,5,9926
+30,Pneumoconioses and chemical effects,38,90
+31,Pneumonitis due to solids and liquids,18,1090
+32,Peptic ulcer,19,1194
+33,Diseases of appendix,33,178
+34,Hernia,25,466
+35,Chronic liver disease and cirrhosis,4,27268
+36,Cholelithiasis and other disorders of gallbladder,26,464
+37,Nephritis,11,3846
+38,Infections of kidney,32,300
+39,Hyperplasia of prostate,35,40
+40,Inflammatory diseases of female pelvic organs,34,150
+41,Pregnancy,41,1000
+42,Certain conditions originating in the perinatal period,41,162
+43,Congenital malformations,12,9842
+44,COVID,9,9860
+45,Accidents (unintentional injuries),3,168776
+46,Intentional self,8,79554
+47,Assault (homicide),22,11570
+48,Legal intervention,36,324
+49,Operations of war and their sequelae,41,0
+50,Complications of medical and surgical care,29,552
+51,Other causes of death,..,229564
